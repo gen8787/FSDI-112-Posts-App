@@ -1,0 +1,22 @@
+body {
+    background-image: linear-gradient(#DDF0FC, #caeaff);
+}
+
+.container {
+    min-height: 90vh;
+}
+
+#posts {
+    min-height: 60vh;
+}
+
+#btn-post button {
+    margin-left: 5px;
+    width: 80px;
+}
+
+footer {
+    background-color: #2D3338;
+    min-height: 10vh;
+    color: white;
+}
