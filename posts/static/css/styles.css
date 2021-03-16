@@ -6,8 +6,8 @@ body {
     min-height: 90vh;
 }
 
-#posts {
-    min-height: 60vh;
+#one-post {
+    background-color: #e9edf075;
 }
 
 #btn-post button {
@@ -16,7 +16,5 @@ body {
 }
 
 footer {
-    background-color: #2D3338;
     min-height: 10vh;
-    color: white;
 }
